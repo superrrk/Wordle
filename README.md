@@ -25,10 +25,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/superrrk/Wordle/main/wordle.gif"
-       alt="App Demo" width="300">
-</p>
+<div>
+    <a href="https://www.loom.com/share/b985e6c10d8b46c7b8d570ee707e96ca">
+      <p>Videos | Library | Loom - 24 September 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/b985e6c10d8b46c7b8d570ee707e96ca">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b985e6c10d8b46c7b8d570ee707e96ca-de30bbc47678d685-full-play.gif">
+    </a>
+  </div>
 
 
 ## Notes
