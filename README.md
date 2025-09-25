@@ -25,14 +25,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<div>
-    <a href="https://www.loom.com/share/aff1105e7eee4b0ca0d7ddd84faf03c2">
-      <p>Editing Wordle/README.md at main · superrrk/Wordle - 24 September 2025 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/aff1105e7eee4b0ca0d7ddd84faf03c2">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/aff1105e7eee4b0ca0d7ddd84faf03c2-c5ffbf874a83b1a7-full-play.gif">
-    </a>
-  </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/superrrk/Wordle/main/wordle.gif"
+       alt="App Demo" width="300">
+</p>
+
 
 ## Notes
 
